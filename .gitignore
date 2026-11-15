@@ -155,3 +155,5 @@ __pycache__/
 /datasets/rugd3/labels/
 *.bak
 *.before_*
+deployment_onnx_*.tar.gz
+deployment_onnx_*.tar.gz.sha256
